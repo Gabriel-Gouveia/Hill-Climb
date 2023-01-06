@@ -13,4 +13,14 @@ Qual é a melhor combinação de voos entre as seis pessoas, de ida e volta, que
 O algoritmo Hill Climb vai pegar o problema, vai pegar a fitness function e vai escolher a menor combinação de voos dessas seis pessoas que possui a menor soma de preços possível.
 
 # Como executar
-Simplesmente execute o arquivo "processamento.py".
+Execute os comandos no terminal: 
+
+pip install numpy
+
+pip install scipy
+
+pip install scikit-learn
+
+pip install mlrose
+
+E execute o arquivo "processamento.py".
